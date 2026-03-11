@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/gestionale/static/js/main.f4b66e42.js",
+    "main.js": "/gestionale/static/js/main.31eae0c4.js",
     "index.html": "/gestionale/index.html",
-    "main.f4b66e42.js.map": "/gestionale/static/js/main.f4b66e42.js.map"
+    "main.31eae0c4.js.map": "/gestionale/static/js/main.31eae0c4.js.map"
   },
   "entrypoints": [
-    "static/js/main.f4b66e42.js"
+    "static/js/main.31eae0c4.js"
   ]
 }
